@@ -1,0 +1,16 @@
+.svg-size {
+  height: 600px;
+  width: 1000px;
+} 
+
+.blue-fill { 
+  fill:rgb(17, 67, 124);
+}
+
+.purple-fill {
+  fill: rgb(60, 13, 104);
+}
+
+.turquoise-fill {
+  fill: rgb(22, 214, 205);
+}
